@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+keras
+matplotlib==3.4.3
+pandas_datareader
+yfinance
+datetime
+Dense
+Dropout
+LSTM
+Sequential
